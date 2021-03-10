@@ -1,2 +1,2 @@
-# location_based_services_technion_2021
-Repository for the location-based services Course 
+# Welcome to Location based services technion 2021 Course
+More information coming soon 
