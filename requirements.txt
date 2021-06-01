@@ -1,0 +1,12 @@
+dash==1.12.0
+dash-core-components==1.10.0
+dash-daq==0.3.1
+dash-html-components==1.0.3
+dash-renderer==1.4.1
+dash-table==4.7.0
+dash-table-experiments==0.6.0
+ipyleaflet==0.12.3
+ipython @ file:///opt/concourse/worker/volumes/live/7ea70a71-5624-4799-50b3-3b90e07922f3/volume/ipython_1593447385860/work
+jupyter-dashboards==0.7.0
+numpy==1.18.4
+plotly==4.8.0
